@@ -1,0 +1,9 @@
+f(x) = x^2
+
+s(x) = -3
+
+
+s : x => x == -3
+
+result set : 9     (   exists(s, el => f(el) == x  )
+
